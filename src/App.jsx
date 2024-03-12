@@ -30,9 +30,7 @@ const siteProps = {
   gitHub: "xradeel",
   instagram: "microsoft",
   linkedIn: "xr-adeel",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  twitter: "xradeel7",
 };
 
 const primaryColor = "#4E567E";

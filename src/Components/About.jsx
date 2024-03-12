@@ -35,7 +35,7 @@ const skillsList = [
   "Data Engineer",
   "Java Developer",
   "User experience",
-  "Game developer",
+  "Game deve",
 ];
 
 /**
